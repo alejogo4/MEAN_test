@@ -1,0 +1,17 @@
+{
+    "requires": true,
+    "lockfileVersion": 1,
+    "dependencies": {
+        "express": "^4.17.1"
+    },
+    "name": "ejemplo",
+    "version": "1.0.0",
+    "description": "Hola mundo",
+    "main": "server.js",
+    "devDependencies": {},
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "Alejandro",
+    "license": "ISC"
+}
